@@ -7,6 +7,7 @@ public class primitive_data_type {
         static int val4 = 5;
         static long val5;
         static char val6;
+        static char val7;
 
         public static void main(String[] args) {
             System.out.println("Default values.....");
@@ -16,5 +17,6 @@ public class primitive_data_type {
             System.out.println("Val4 = " + val4);
             System.out.println("Val5 = " + val5);
             System.out.println("Val6 = " + val6);
+            System.out.println("Val6 = " + val7);
         }
 }

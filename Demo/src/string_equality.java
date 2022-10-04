@@ -5,10 +5,10 @@ public class string_equality {
         String Str1 = "Hello";
         String Str2 = "Hello";
         String Str3 = "Hello Ram";
-        if(Str1 == Str2){
-            System.out.println("Str1 and Str2 is equal");
+        if(Str1 == Str3){
+            System.out.println("Str1 and Str3 is equal");
         }else{
-            System.out.println("Str1 and Str2 is not equal");
+            System.out.println("Str1 and Str3 is not equal");
         }
     }
 }
